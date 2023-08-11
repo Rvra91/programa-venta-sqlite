@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_111-b14 (Oracle Corporation)
+Class-Path: lib/AbsoluteLayout.jar lib/SistemaDeventasCompleto/ lib/my
+ sql-connector-java-5.1.46-bin.jar lib/jcalendar-1.4.jar lib/itext5-it
+ extpdf-5.5.12.jar lib/sqlite-jdbc-3.41.0.0.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: vista.FrmMenu
+SplashScreen-Image: META-INF/header1.png
+
